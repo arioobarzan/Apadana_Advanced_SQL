@@ -1,0 +1,11 @@
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\db.mdf
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\db_log.ldf
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.exe
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.pdb
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.Form1.resources
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.Properties.Resources.resources
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.exe
+C:\Users\gheir\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.pdb
